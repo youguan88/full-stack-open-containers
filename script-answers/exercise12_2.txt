@@ -1,0 +1,5 @@
+docker run -it ubuntu bash
+mkdir /usr/src/app
+cd /usr/src/app
+type NUL > index.js
+ls
